@@ -1,5 +1,5 @@
 ---
-New York! Subways! Data!
+layout: post
 title: New York! Subways! Data!
 ---
 
