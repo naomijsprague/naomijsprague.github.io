@@ -1,0 +1,146 @@
+[
+  {
+    "date": "1/1854", 
+    "army_size": 179983, 
+    "disease": 1566, 
+    "wounds": 754
+  },
+  {
+    "date": "2/1854", 
+    "army_size": 179983, 
+    "disease": 1064, 
+    "wounds": 497 
+  },
+  {
+    "date": "3/1854", 
+    "army_size": 179983, 
+    "disease": 915, 
+    "wounds": 447
+  },
+  {
+    "date": "4/1854", 
+    "army_size": 179983, 
+    "disease": 400, 
+    "wounds": 180
+  },
+  {
+    "date": "5/1854", 
+    "army_size": 179983, 
+    "disease": 223, 
+    "wounds": 210  
+  },
+  {
+    "date": "6/1854", 
+    "army_size": 179983, 
+    "disease": 234, 
+    "wounds": 451  
+  },
+  {
+    "date": "7/1854", 
+    "army_size": 179983, 
+    "disease": 342, 
+    "wounds": 1369 
+  },
+  {
+    "date": "8/1854", 
+    "army_size": 179983, 
+    "disease": 998, 
+    "wounds": 3613
+  },
+  {
+    "date": "9/1854", 
+    "army_size": 179983, 
+    "disease": 1602, 
+    "wounds": 5303 
+  },
+  {
+    "date": "10/1854", 
+    "army_size": 179983, 
+    "disease": 2146, 
+    "wounds": 4217 
+  },
+  {
+    "date": "11/1854", 
+    "army_size": 179983, 
+    "disease": 3145, 
+    "wounds": 3528
+  },
+  {
+    "date": "12/1854", 
+    "army_size": 179983, 
+    "disease": 4548, 
+    "wounds": 4631 
+  },
+  {
+    "date": "13/1854", 
+    "army_size": 179983, 
+    "disease": 6192, 
+    "wounds": 5852 
+  },
+  {
+    "date": "14/1854", 
+    "army_size": 179983, 
+    "disease": 6834, 
+    "wounds": 5509 
+  },
+  {
+    "date": "15/1855", 
+    "army_size": 179983, 
+    "disease": 7569, 
+    "wounds": 5044
+  },
+  {
+    "date": "16/1854", 
+    "army_size": 179983, 
+    "disease": 7646, 
+    "wounds": 5519 
+  },
+  {
+    "date": "17/1854", 
+    "army_size": 179983, 
+    "disease": 7824, 
+    "wounds": 7217
+  },
+  {
+    "date": "18/1854", 
+    "army_size": 179983, 
+    "disease": 7910, 
+    "wounds": 9138
+  },
+  {
+    "date": "19/1854", 
+    "army_size": 179983, 
+    "disease": 7901, 
+    "wounds": 7800
+  },
+  {
+    "date": "20/1854", 
+    "army_size": 179983, 
+    "disease": 7146, 
+    "wounds": 5939  
+  },
+  {
+    "date": "21/1854", 
+    "army_size": 179983, 
+    "disease": 6069, 
+    "wounds": 4407
+  },
+  {
+    "date": "22/1854", 
+    "army_size": 179983, 
+    "disease": 4434, 
+    "wounds": 3102
+  },
+  {
+    "date": "23/1854", 
+    "army_size": 179983, 
+    "disease": 3005, 
+    "wounds": 2156
+  },
+  {
+    "date": "24/1854", 
+    "army_size": 179983, 
+    "disease": 2119, 
+    "wounds": 1368 
+  }
+]
